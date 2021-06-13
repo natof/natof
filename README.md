@@ -8,14 +8,14 @@
 - 🎓 Soon I will study at school 42 in Quebec
 - 🌵 I do lots of things related to minecraft
 
-<h3>My skills</h3>
+<h3>🧬My Skills</h3>
 
 - 🐍 Python
 - 🤖 Discord.js 
 - 🧰 PHP
 - 🎮 Minecraft Bedrock
 
-<h3>social networks</h3>
+<h3>📱Social Networks</h3>
 
 - Gmail : rallonathanael@gmail.com
 - Discord : ! 𝙉𝙖𝙩𝙤𝙛🌵#8888

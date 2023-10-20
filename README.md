@@ -7,8 +7,9 @@
 <h3>🧬My Minecraft Skills</h3>
 
 - 🐸 Addon Maker
-- 🎨 Graphiste 2D/3D for minecraft
+- 🎨 Graphiste
 - 🖼️ JSON-UI
+- 🤖 Developer
 
 <h4>🌐Language</h4>
 
